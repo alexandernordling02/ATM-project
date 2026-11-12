@@ -1,19 +1,23 @@
-body{
+* {
+  background-color: rgb(242, 239, 239);
+}
+
+body {
   text-align: center;
   display: flex;
   justify-content: center;
 }
 
-h3{
+h3 {
   font-size: 24px;
 }
 
-p{
+p {
   font-size: 19px;
   font-style: italic;
 }
 
-button{
+button {
   margin: 10px;
   padding: 10px;
   border: 5px outset grey;
